@@ -10,11 +10,11 @@ For those with USB MIDI devices that need a central Host for connection, do not 
 This script is especially useful for people with this particular setup:
 
 - USB MIDI Devices, **especially Teenage Engineering synthesisers - OP-1 and/or OP-Z**
-  - It is especially useful as it runs RPiPlay which can be used as an airplay screen mirror reciever. This allows one to stream Videolab videopak visuals from te OP-Z iOS app to this device - either on the LCD display or to an HDMI output.
+  - It is especially useful as it runs RPiPlay which can be used as an airplay screen mirror reciever. This allows one to stream Videolab videopak visuals from the OP-Z iOS app to this device - either on the LCD display or to an HDMI output.
 	- Alternatively, can also just be used with any iOS visualiser app, particularly if you use an iPad connected via Bluetooth MIDI
 - Raspberry Pi with Raspbian/Raspberry Pi OS desktop installed.
 
-  - with 4x USB ports or a USB hub.
+  - with multiple USB ports or a USB hub.
  
 - Touch screen display/case
 

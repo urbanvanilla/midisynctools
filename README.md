@@ -62,7 +62,7 @@ Edit MidiTools.py
 
 	subprocess.Popen(["xterm", "-e", "sudo", "/home/pi/LCD-show/MPI4008-show"], cwd="/home/pi/LCD-show")
 
-Change 'MPI4008-show' to the script that installs your LCD display device. If it is not a driver included in LCD-show, then this may have different functionality. You can conversely delete the Touch Display and Monitor Display buttons if you don't have a Touch display or need to change the display drivers between touch screen and normal HDMI/monitor output.
+Change 'MPI4008-show' to the script that installs your LCD display device. If it is not a driver included in LCD-show, then this may have different functionality. You can conversely delete the Touch Display and Monitor Display buttons if you don't have a Touch display or the need to change the display drivers between touch screen and normal HDMI/monitor output.
 
 
 ## Caveats

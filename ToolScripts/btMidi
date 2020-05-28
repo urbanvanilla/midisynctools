@@ -1,0 +1,4 @@
+#!/bin/bash
+echo "Starting Bluetooth MIDI Server"
+
+sudo btmidi-server -v -n "RPi Bluetooth"

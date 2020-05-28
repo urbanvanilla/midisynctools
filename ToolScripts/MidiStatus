@@ -1,0 +1,4 @@
+#!/bin/bash
+echo "Connected MIDI Status:"
+aconnect -l
+read dummy

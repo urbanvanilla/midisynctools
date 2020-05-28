@@ -3,6 +3,8 @@
 Menu script for aconnect/MIDI Host functions + more on a Raspberry Pi. Not exclusive to Teenage Engineering devices, but useful for them in particular. 
 This script is essentially a GUI wrapper to run commands via a simple organised menu that can be utilised with or without a touchscreen for portability. 
 
+https://imgur.com/PNKyDhy
+
 https://www.instagram.com/p/CAtgRGQpMqV
 
 ## Purpose
@@ -39,7 +41,7 @@ For full functionality:
 ## Usage/Functionality:
 * Execute miditools.py to run the menu. Add a link/shortcut to the Raspberry Pi OS desktop for ease of use.
 
-![Image of Menu](https://github.com/urbanvanilla/midisynctools/blob/master/menu.png?raw=true)
+![Image of Menu](https://i.imgur.com/aa9XAhh.png)
 
 * Starts Bluetooth MIDI server in terminal window. Can be closed to turn it off.
 

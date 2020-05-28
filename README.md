@@ -5,7 +5,7 @@ This script is essentially a GUI wrapper to run commands via a simple organised 
 
 ## Purpose
 
-For: those with USB MIDI devices that need a central Host for connection, do not necessarily need a MIDI DIN plug connector and are not keen on buying standalone USB Host devices. Especially if you already own a Raspberry Pi.
+For those with USB MIDI devices that need a central Host for connection, do not necessarily need a MIDI DIN plug connector and are not keen on buying standalone USB Host devices. Especially if you already own a Raspberry Pi.
 
 This script is especially useful for people with this particular setup:
 

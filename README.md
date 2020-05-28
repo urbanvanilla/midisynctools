@@ -34,7 +34,8 @@ For full functionality:
   - This guide details setting up automatic MIDI connections when USB devices are plugged in. This is not necessary but **may be useful and faster for on-the-go/get-out-of-my-backpack-and-start-jamming usage** of your Pi as the MIDI host. **It also details installation of the Bluetooth MIDI server.**
  My personal setup does not have the Bluetooth MIDI service set up nor does it run the service at start up. I prefer to start it via this script and close it when not in use.
 
-## Functionality:
+## Usage/Functionality:
+* Execute miditools.py to run the menu. Add a link/shortcut to the Raspberry Pi OS desktop for ease of use.
 
 ![Image of Menu](https://github.com/urbanvanilla/midisynctools/blob/master/menu.png?raw=true)
 

@@ -55,7 +55,8 @@ For full functionality:
 ## Installation
 
 Copy the repo files to your pi folder.
-git clone https://github.com/urbanvanilla/midisynctools.git
+
+	git clone https://github.com/urbanvanilla/midisynctools.git
 
 Edit MidiTools.py
 

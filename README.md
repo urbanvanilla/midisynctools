@@ -3,6 +3,8 @@
 Menu script for aconnect/MIDI Host functions + more on a Raspberry Pi. Not exclusive to Teenage Engineering devices, but useful for them in particular. 
 This script is essentially a GUI wrapper to run commands via a simple organised menu that can be utilised with or without a touchscreen for portability. 
 
+https://www.instagram.com/p/CAtgRGQpMqV
+
 ## Purpose
 
 For those with USB MIDI devices that need a central Host for connection, do not necessarily need a MIDI DIN plug connector and are not keen on buying standalone USB Host devices. Especially if you already own a Raspberry Pi.

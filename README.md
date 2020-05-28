@@ -36,7 +36,7 @@ For full functionality:
 
 ## Functionality:
 
-![Image of Menu](https://github.com/urbanvanilla/midisynctools/menu.png)
+![Image of Menu](https://github.com/urbanvanilla/midisynctools/blob/master/menu.png?raw=true)
 
 * Starts Bluetooth MIDI server in terminal window. Can be closed to turn it off.
 

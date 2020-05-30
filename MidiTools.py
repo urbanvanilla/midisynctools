@@ -5,22 +5,22 @@ import subprocess
 
 def startBT():
     welcome_message.value = "Starting Bluetooth MIDI Server"
-    subprocess.Popen(["xterm", "./ToolScripts/btMidi"])
+    subprocess.Popen(["xterm", "/home/pi/midisynctools/ToolScripts/btMidi"])
 
 def checkStatus():
     welcome_message.value = "Displaying MIDI Connections"
-    subprocess.Popen(["xterm","./ToolScripts/MidiStatus"])
+    subprocess.Popen(["xterm","/home/pi/midisynctools/ToolScripts/MidiStatus"])
 
 def startMidiConnector():
     welcome_message.value = "Starting Midi Connector"
-    subprocess.Popen(["./ToolScripts/MidiConnectorPy.py"])
+    subprocess.Popen(["/home/pi/midisynctools/ToolScripts/MidiConnectorPy.py"])
 
     
 def startAPReciever():
     welcome_message.value = "Starting AirPlay Reciever"
     info("Info", "Best run when in 1080p HDMI output. May need to run '/home/pi/LCD-show/LCD-hdmi' prior to running.")
     if (yesno("RPiPlay", "Display may lose visual feedback, best used with keyboard/VNC control. Terminate with Ctrl+ C. Continue?")):
-        subprocess.Popen(["xterm", "-e", "/home/pi/RPiPlay/build/rpiplay", "-n","MidiToolsAP", "-b", "off"])
+        subprocess.Popen(["xterm", "-e", "/home/pi/RPiPlay/build/rpiplay", "-n","MidiToolsAP", "-b", "auto"])
 
 def startLCDhdmi():
     welcome_message.value = "Changing display settings"

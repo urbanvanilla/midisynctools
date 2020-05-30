@@ -3,7 +3,7 @@
 Menu script for aconnect/MIDI Host functions + more on a Raspberry Pi. Not exclusive to Teenage Engineering devices, but useful for them in particular. 
 This script is essentially a GUI wrapper to run commands via a simple organised menu that can be utilised with or without a touchscreen for portability. 
 
-https://imgur.com/PNKyDhy
+https://imgur.com/a/Si7VICp
 
 https://www.instagram.com/p/CAtgRGQpMqV
 

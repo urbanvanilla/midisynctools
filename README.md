@@ -49,9 +49,12 @@ For full functionality:
 
 * Opens MIDI Connector window, a script to disconnect all
 
+![Image of Connector UI](https://i.imgur.com/s2e6Hw4.png)
+
 * MIDI connections or reroute connected devices.
 
 * Start RPiPlay (needs to be cloned/built from the RPiPlay github repo)
+![Video of Mirroring](https://i.imgur.com/qpL9wzv.mp4)
 
 * Change configuration from utilising touch screen display (this script utilises the scripts and drivers from LCD-show github repo)
   * This is so you can go between using the device portably with touch screen function and using it on a normal HDMI output screen while mirroring Airplay from an iOS device for visuals. In my experience, using the touch screen drivers stops you from using full resolution with normal HDMI output, so it is necessary to change between them.

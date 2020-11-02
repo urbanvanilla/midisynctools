@@ -14,7 +14,7 @@ def changeDestination():
     destinationid = mididestination.value
     
 def checkStatus():
-    subprocess.Popen(["uxterm","/home/pi/James/Scripts/MidiStatus"])
+    subprocess.Popen(["xterm","/home/pi/midisynctools/ToolScripts/MidiStatus"])
     
 def connectMidi():
     sourceid = midisource.value
